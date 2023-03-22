@@ -1,0 +1,151 @@
+@charset "UTF-8";
+
+body {
+   margin: 0;
+   padding: 0;
+}
+
+span.title01 {
+   font-size: 50px;
+   color: #051937;
+   font-family: Arial;
+   font-family: Gulim;
+   font-weight: bold;
+}
+
+span.title02 {
+   font-size: 35px;
+   color: #234372;
+   font-family: Arial;
+   font-family: Gulim;
+   font-weight: bold;
+}
+
+span.title03 {
+   font-size: 30px;
+   color: #234372;
+   font-family: Arial;
+   font-weight: bold;
+   font-family: Gulim;
+   text-align: center;
+}
+
+span.title04 {
+   font-size: 25px;
+   color: #234372;
+   font-family: Arial;
+   font-weight: bold;
+   font-family: Gulim;
+   
+   
+   
+}
+
+td.skillbox {
+   background-color: #D3DCE9;
+   text-align: center;   
+   border-bottom: 1px solid white;
+}
+
+td.skillbox2 {
+   background-color: #D3DCE9;
+   border-bottom: 1px solid white;
+   padding: 10px;
+}
+
+td.skillbox3 {
+   line-height:0;
+   background-color: #D3DCE9;
+   border: 1px solid white;
+}
+
+td.picbox {
+   background-color: #E8EDF5;
+   text-align: center;
+   
+}
+
+td.titlebox {
+   text-align: center;
+}
+
+td.mapinfo{
+   font-size: 30px;
+   color: #051937;
+   font-family: Arial;
+   font-family: Gulim;
+   font-weight: bold;
+   text-align: center;
+   padding-bottom: 15px;
+   
+}
+
+img.img{
+   width: 200px;
+   height: 200px;
+   background-size: cover;
+   float:left;
+   margin:0;
+   padding:0;
+}
+
+td.imgtitle{
+   background-color: #798FB0;
+   text-align: center;
+   border: 0px;
+   height: 80px;
+}
+
+span.title05{
+   color: white;
+   font-size: 40px;
+   font-family: Arial;
+   font-family: Gulim;
+   font-weight: bold;
+   text-align: center;
+}
+
+td.table_bottom{
+   text-align: center;
+   
+   
+}
+
+button.table_bottom_button{
+   font-size: 30px;
+   margin-top: 10px;
+   background-color: #788EB0;
+   border: 2px solid #ffffff;
+   width: 180px;
+   height: 70px;
+   font-family: Malgun;
+   color: #ffffff;
+   font-weight: bold;
+   padding: 5px;
+}
+
+button.table_bottom_button:hover {
+   background-color:#365077;
+   border: 2px solid #ffffff;
+   width: 180px;
+   height: 70px;
+   font-family: malgun;
+   font-size: 30px;
+   color: #ffffff;
+   font-weight: bold;
+   padding: 5px;
+   cursor: pointer;
+}
+
+#sskillbox{
+   background: #B4C3D8;
+   
+} 
+
+
+
+
+
+
+
+

@@ -1,0 +1,120 @@
+@charset "UTF-8";
+
+tr.contentbox {
+   height: 700px;
+   
+   background-color: #A2B3CD;
+}
+
+td.content {
+   font-family: malgun;
+   font-size: 20px;
+   font-weight: bold;
+   color: #303030;
+   text-align: center;
+}
+
+span.content_text01 {
+   font-family: malgun;
+   font-size: 25px;
+   font-weight: bold;
+   color: #234372;   
+}
+
+input.input_type01 {
+   background-color: #ffffff;
+   border: 1px solid #FED39F;
+   width: 250px;
+   height: 40px;
+   font-family: Arial;
+   font-size: 25px;
+   color: #2a2a2a;
+   padding: 5px;
+}
+
+input.input_type02 {
+   background-color: #ffffff;
+   border: 1px solid #FED39F;
+   width: 400px;
+   height: 40px;
+   font-family: Arial;
+   font-size: 25px;
+   color: #2a2a2a;
+   padding: 5px;
+}
+
+input.button_type01 {
+   background-color: #788EB0;
+   border: 2px solid #ffffff;
+   width: 180px;
+   height: 70px;
+   font-family: malgun;
+   font-size: 25px;
+   color: #ffffff;
+   font-weight: bold;
+   padding: 5px;
+   
+}
+
+input.button_type01:hover {
+   background-color:#365077;
+   border: 2px solid #ffffff;
+   width: 180px;
+   height: 70px;
+   font-family: malgun;
+   font-size: 25px;
+   color: #ffffff;
+   font-weight: bold;
+   padding: 5px;
+   cursor: pointer;
+}
+
+input.button_type02 {
+   background-color: #788EB0;
+   border: 2px solid #ffffff;
+   width: 80px;
+   height: 40px;
+   font-family: malgun;
+   font-size: 18px;
+   color: #ffffff;
+   font-weight: bold;
+   padding: 5px;
+   
+}
+
+input.button_type02:hover {
+   background-color:#365077;
+   border: 2px solid #ffffff;
+   width: 80px;
+   height: 40px;
+   font-family: malgun;
+   font-size: 18px;
+   color: #ffffff;
+   font-weight: bold;
+   padding: 5px;
+   cursor: pointer;
+}
+
+textarea.textarea_type01 {
+   background-color: #ffffff;
+   border: 1px solid #FED39F;
+   width: 700px;
+   font-family: Arial;
+   font-size: 20px;
+   color: #2a2a2a;
+   padding: 5px;
+}
+
+textarea.textarea_type02 {
+   background-color: #ffffff;
+   border: 1px solid #FED39F;
+   width: 600px;
+   font-family: Arial;
+   font-size: 18px;
+   color: #2a2a2a;
+   padding: 5px;
+}
+
+td.middle_td{
+   text-align: center;
+}

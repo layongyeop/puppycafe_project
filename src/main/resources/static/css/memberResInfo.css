@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+body{
+   background: url(/resources/img/background2.jpg) no-repeat center;
+   
+}
+input.button_type01 {
+   background-color: #788EB0;
+   border: 2px solid #ffffff;
+   width: 60px;
+   height: 40px;
+   font-family: malgun;
+   font-size: 20px;
+   color: #ffffff;
+   font-weight: bold;
+   padding: 5px;
+   margin-left: 6px;
+   
+}
+
+input.button_type01:hover {
+   background-color:#365077;
+   border: 2px solid #ffffff;
+   width: 60px;
+   height: 40px;
+   font-family: malgun;
+   font-size: 20px;
+   color: #ffffff;
+   font-weight: bold;
+   padding: 5px;
+   cursor: pointer;
+   
+}
+
+td.table_title{
+   height: 50px;
+   font-size: 30px;
+   font-family: Gulim;
+     font-weight: bold;
+     color: #112C55;
+     border-bottom: 1px solid gray;
+   
+}
+
+td.table_td_font{
+   height: 50px;
+   font-size: 25px;
+   font-family: Gulim;
+     font-weight: bold;
+     color: #112C55;
+     border-bottom: 1px solid gray;
+   
+}
+
+div.btn_area{
+   margin: 10px;
+   
+}
+
+input.button_type02 {
+   background-color: #788EB0;
+   border: 2px solid #ffffff;
+   width: 100px;
+   height: 50px;
+   font-family: malgun;
+   font-size: 25px;
+   color: #ffffff;
+   font-weight: bold;
+   padding: 5px;
+   margin-left: 6px;
+   margin-right: 6px;
+}
+
+input.button_type02:hover {
+   background-color:#365077;
+   border: 2px solid #ffffff;
+   width: 100px;
+   height: 50px;
+   font-family: malgun;
+   font-size: 25px;
+   color: #ffffff;
+   font-weight: bold;
+   padding: 5px;
+   cursor: pointer;
+   
+}
+
+.text_area{
+   margin-top: 50px;
+   
+}
